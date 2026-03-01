@@ -35,7 +35,8 @@ A comprehensive collection of Python programming projects, organized into beginn
 An interactive terminal-based quiz that challenges users with multiple-choice questions. 
 The program utilizes dictionary structures for question storage, tracks real-time scoring, 
 and provides instant correct/incorrect feedback through conditional control flow.
-![Project Screenshot Placeholder](./01-python-mini-projects/images/quiz.png)
+
+![Project Screenshot Placeholder](./img/01-quiz-game.jpg)
 
 ### 2. Number Guessing
 **File:** [`02-number-gussing-game.py`](./01-python-mini-projects/02-number-gussing-game.py)  
