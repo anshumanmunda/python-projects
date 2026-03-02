@@ -29,7 +29,6 @@ while(i < 5):
   
   i += 1
   
-
 print('\n--------- Results ------------- \n')
 print(f'Correct = {correct}') 
 print(f'Wrong = {wrong}') 

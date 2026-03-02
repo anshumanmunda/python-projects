@@ -8,7 +8,7 @@ win = 0
 
 while(count < 3):
   player1 = random.choice(options)
-  player2 = input('\nYour Turn : ')
+  player2 = input('\nYour Turn : ').lower()
 
   if player2 not in options:
     print('Invalid choice\nSelect either (rock, paper or scissor)')
