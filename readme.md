@@ -2,7 +2,7 @@
 
 A comprehensive collection of Python programming projects, organized into beginner-friendly mini-projects and advanced major projects.
 
-![alt text](<PYTHON MINI PROJECTS.jpg>)
+![alt text](./img/mini-project.jpg)
 
 ---
 
