@@ -5,7 +5,6 @@ A comprehensive collection of Python programming projects, organized into beginn
 ![alt text](./img/mini-project.jpg)
 
 ---
-
 ## 📑 Table of Contents
 * [📂 Directory Structure](#-directory-structure)
 * [🛠️ 01: Python Mini-Projects](#️-01-python-mini-projects)
